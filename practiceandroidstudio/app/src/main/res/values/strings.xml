@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">practice android studio</string>
+    <string name="click_to_change_the_text">Click to change the text</string>
 </resources>
